@@ -1,6 +1,6 @@
-### Oie, eu sou a Camila! 
+### Oie 
 
-- 🔭 Estou aprendendo Python e SQL
+- 👧 Sou iniciante
 
 <div align="center">
   <a href="https://github.com/camaartins">
