@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá, eu sou a Camila 👋
 
-<!--
-**camaartins/camaartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🙋‍♀️ Tenho 26 anos
+- 📚 Sou formada em Engenharia Biomédica
+- 🔭 Estou em recolocação no mercado de tecnologia após 2 anos de experiência na área de dados.
+- 🌱 Estudando SQL, Python, R, Cloud e DataViz
+- 😄 Pronomes: ela/dela
+- 🌐 LinkedIn: https://www.linkedin.com/in/camaartins/ 
+- 📫 Entre em contato: camilasilva1604@hotmail.com
 
-Here are some ideas to get you started:
+----------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there, I am Camila 👋
+
+- 🙋‍♀️ I am 26 years old
+- 📚 I have a bachelor's degree in Biomedical Engineering 
+- 🔭 I am looking for a new position in the technology field after 2 years of experience with data. 
+- 🌱 Studying SQL, Python, R, Cloud and DataViz
+- 😄 Pronouns: she/her
+- 🌐 LinkedIn: https://www.linkedin.com/in/camaartins/
+- 📫 Contact me: camilasilva1604@hotmail.com
