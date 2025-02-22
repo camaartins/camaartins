@@ -1,8 +1,7 @@
 ## Olá, eu sou a Camila 👋
 
 - 🙋‍♀️ Tenho 26 anos
-- 📚 Sou formada em Engenharia Biomédica
-- 🔭 Estou em recolocação no mercado de tecnologia após 2 anos de experiência na área de dados.
+- 📚 Sou formada em Engenharia Biomédica.
 - 🌱 Estudando SQL, Python, R, Cloud e DataViz
 - 😄 Pronomes: ela/dela
 - 🌐 LinkedIn: https://www.linkedin.com/in/camaartins/ 
@@ -14,7 +13,6 @@
 
 - 🙋‍♀️ I am 26 years old
 - 📚 I have a bachelor's degree in Biomedical Engineering 
-- 🔭 I am looking for a new position in the technology field after 2 years of experience with data. 
 - 🌱 Studying SQL, Python, R, Cloud and DataViz
 - 😄 Pronouns: she/her
 - 🌐 LinkedIn: https://www.linkedin.com/in/camaartins/
